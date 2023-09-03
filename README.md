@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/HdtbaYI.png" alt="Kali Linux"/>
+<img src="https://i.imgur.com/HdtbaYI.png" height="30%" width="60%" alt="Kali Linux"/>
 </p>
 
 <h1>Installing Ccrypt into a Virtual Machine</h1>
