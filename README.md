@@ -49,6 +49,6 @@ Open the Terminal Emulator, to do so, press Ctrl+Alt+T or click the Terminal Emu
 <img src="https://i.imgur.com/bPYqCNq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To install ccrypt, type "sudo apt install ccrypt, press Enter, type your password when prompted and then press Enter. The terminal window displays the progress of the installation. Once the installation is complete ccrypt is now ready to use.
+To install ccrypt, type "sudo apt install ccrypt", press Enter, type your password when prompted and then press Enter. The terminal window displays the progress of the installation. Once the installation is complete ccrypt is now ready to use.
 </p>
 <br />
